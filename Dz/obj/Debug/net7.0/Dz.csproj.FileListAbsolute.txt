@@ -1,0 +1,14 @@
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\bin\Debug\net7.0\Dz.exe
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\bin\Debug\net7.0\Dz.deps.json
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\bin\Debug\net7.0\Dz.runtimeconfig.json
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\bin\Debug\net7.0\Dz.dll
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\bin\Debug\net7.0\Dz.pdb
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\Dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\Dz.AssemblyInfoInputs.cache
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\Dz.AssemblyInfo.cs
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\Dz.csproj.CoreCompileInputs.cache
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\Dz.dll
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\refint\Dz.dll
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\Dz.pdb
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\Dz.genruntimeconfig.cache
+C:\Users\zheny\OneDrive\Рабочий стол\KrR\Dz\obj\Debug\net7.0\ref\Dz.dll
